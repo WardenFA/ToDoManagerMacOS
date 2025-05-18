@@ -1,0 +1,5 @@
+*.class
+/output/
+*.dmg
+*.DS_Store
+*.log
